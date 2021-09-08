@@ -39,4 +39,3 @@ class ViewController: UIViewController {
         input.text = String(result)
     }
 }
-
