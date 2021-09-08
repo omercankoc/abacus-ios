@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Abacus
-//
-//  Created by Gökberk Karakavuz on 12.03.2021.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
